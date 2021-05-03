@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Sexuality_Center/Front%20Page/November%20Terror/Bore%20rotisserie/WILD%20BOAR%20Catch%20n%20Cook!%20DAMN%20LEMON%20Spit%20Roast%20Recipe!!!-gxPHoj184ew.mkv</location>
+			<duration>529020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Sexuality_Center/Front%20Page/November%20Terror/Ostrich%20roast/%D0%A8%D0%90%D0%A8%D0%9B%D0%AB%D0%9A%20%D0%B8%D0%B7%20%D0%A1%D0%A2%D0%A0%D0%90%D0%A3%D0%A1%D0%90.%20%D0%9C%D0%AF%D0%A1%D0%9E%20%D0%A1%D0%A2%D0%A0%D0%90%D0%A3%D0%A1%D0%90%20%D0%BD%D0%B0%20%D0%9C%D0%90%D0%9D%D0%93%D0%90%D0%9B%D0%95.%20ENG%20SUB-WCRBKyYSg-U.mp4</location>
+			<duration>816995</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

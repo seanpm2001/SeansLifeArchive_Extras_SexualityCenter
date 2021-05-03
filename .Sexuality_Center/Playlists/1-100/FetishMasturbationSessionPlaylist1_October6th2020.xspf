@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/[NSFW]%20~Seans~Fun~Place~18~/Front%20Page/November%20Terror/Turkey%20Carving/Thanksgiving%202015%20Turkey%20carving%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>183321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/[NSFW]%20~Seans~Fun~Place~18~/Front%20Page/November%20Terror/Chicken%20rotisserie/Timelapse%20Video%20of%20a%20Chicken%20Cooking%20in%20a%20Rotisserie%20Oven%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>28212</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/[NSFW]%20~Seans~Fun~Place~18~/Front%20Page/November%20Terror/Turkey%20Rotisserie/Thanksgiving-%20Turkey%20Timelapse%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>59977</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/[NSFW]%20~Seans~Fun~Place~18~/Front%20Page/November%20Terror/Turkey%20Carving/Turkey%20Carving%20Timelapse%20(How-To)%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>52221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/[NSFW]%20~Seans~Fun~Place~18~/Front%20Page/November%20Terror/Turkey%20Carving/turkey%20carving%20time%20lapse%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>82638</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

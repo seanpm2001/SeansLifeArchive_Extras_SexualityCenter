@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/Main/JournalingFolder/Extras/.Sexuality_Center/Front%20Page/November%20Terror/Eating%20%28people%29/Thanksgiving%20Day%202014%20Time-lapse%20uncut%20Scratch%20to%20Feast%20Turkey%20Cutting%20Cakes%20GoPro%20Hero3%20Black%20HD%20-%20HD%20720p%20-%20%5Bdownloadyoutubehd.net%5D.mp4</location>
+			<duration>252865</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>

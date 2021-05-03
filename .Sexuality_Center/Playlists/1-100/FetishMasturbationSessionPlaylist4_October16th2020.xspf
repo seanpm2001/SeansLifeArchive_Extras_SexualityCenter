@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/[NSFW]%20~Seans~Fun~Place~18~/Front%20Page/November%20Terror/Pig%20Rotisserie/Don&#39;t%20Watch%20This%20If%20Your%20Hungry%20-%20Pig%20Roast%20Time%20Lapse%20-%20HD%20720p%20-%20[downloadyoutubehd.net].mp4</location>
+			<duration>476866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/[NSFW]%20~Seans~Fun~Place~18~/Front%20Page/November%20Terror/Pig%20Rotisserie/Pig%20Roast%20&#39;09-iayGnDl83iA.mkv</location>
+			<duration>166560</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

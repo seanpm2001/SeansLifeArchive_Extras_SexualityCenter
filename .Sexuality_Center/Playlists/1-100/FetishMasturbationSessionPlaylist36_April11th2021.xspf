@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm2001-l2/Desktop/Main/JournalingFolder/Extras/.Sexuality_Center/Front%20Page/November%20Terror/Turkey%20Carving/Thanksgiving%202015%20Turkey%20carving%20-%20HD%20720p%20-%20%5Bdownloadyoutubehd.net%5D.mp4</location>
+			<duration>183321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
